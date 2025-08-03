@@ -6,6 +6,7 @@ Built using **YOLOv8** to track **Fire Extinguishers**, **Toolboxes**, and **Oxy
 Hackathon: **Build With India 2.0 – Space Station Track**  
 
 📥 **[Download Dataset & Weights](https://drive.google.com/drive/folders/1IMfpSRCXRlWwtBeAVJCUMP9yhHAqYUXz?usp=sharing)**
+**[Report File](https://docs.google.com/document/d/1qjdnaJU8wNWYYKK47G6qcneVDv8i8exfWDBhXBpdYGQ/edit?usp=sharing)**
 
 
 ## 🌌 Why This Project?
@@ -124,3 +125,4 @@ This project directly addresses:
 
 
 🧠 AI-based automation aboard space missions
+
