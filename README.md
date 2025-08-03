@@ -4,9 +4,9 @@ A real-time object detection and monitoring system for space stations.
 Built using **YOLOv8** to track **Fire Extinguishers**, **Toolboxes**, and **Oxygen Tanks**, this system ensures astronaut safety by detecting misplaced or floating tools in microgravity.
 
 Hackathon: **Build With India 2.0 – Space Station Track**  
-Author: **Ansh Gupta**
 
----
+📥 **[Download Dataset & Weights](https://drive.google.com/drive/folders/1IMfpSRCXRlWwtBeAVJCUMP9yhHAqYUXz?usp=sharing)**
+
 
 ## 🌌 Why This Project?
 
@@ -121,5 +121,6 @@ This project directly addresses:
 🔐 Astronaut safety
 
 🧰 Tool visibility and inventory tracking
+
 
 🧠 AI-based automation aboard space missions
